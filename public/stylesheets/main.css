@@ -1,0 +1,14 @@
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+}
+
+a {
+  margin: 10px;
+}
+
+.left-btn {
+  position: absolute;
+  left: 5px;
+}
